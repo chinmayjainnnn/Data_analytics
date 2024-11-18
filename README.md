@@ -1,12 +1,9 @@
 # Data_analytics
-Here’s a cleaned-up and concise version of the document with unnecessary details like outdated deadlines removed:
-
 ---
+# 🌌 **Assignment 2 -Analyzing Kepler's Data on Mars**  
 
-# 🌌 E0 259 - Data Analytics: Module 2  
 
-**Analyzing Kepler's Data on Mars**  
-This repository provides materials, datasets, and instructions for Module 2 of the E0 259 Data Analytics course.  
+This repository provides materials, datasets, and instructions for Analyzing Kepler's Data on Mars.  
 
 ---
 
@@ -66,11 +63,3 @@ This module focuses on analyzing Mars's orbital data using trigonometric and reg
 - [Triangulation Data (`triangulation_data.csv`)](https://example.com/triangulation_data.csv)  
 
 ---
-
-## 📧 **Contact**  
-**Course Coordinator:** Ramesh Hariharan  
-**Email:** [course-email@example.com](mailto:course-email@example.com)  
-
----  
-
-This streamlined version focuses on essential information, making it more concise and user-friendly. Let me know if you need any further edits!
