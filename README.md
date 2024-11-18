@@ -49,7 +49,7 @@ This module focuses on analyzing Mars's orbital data using trigonometric and reg
 ---
 
 ## 🔗 **Resources**  
-- [Mars Opposition Data (`mars_opposition_data.csv`)](https://example.com/mars_opposition_data.csv)  
-- [Triangulation Data (`triangulation_data.csv`)](https://example.com/triangulation_data.csv)  
+- [Mars Opposition Data (`mars_opposition_data.csv`)](https://ece.iisc.ac.in/~rajeshs/E0259/01_data_mars_opposition.csv)  
+- [Triangulation Data (`triangulation_data.csv`)](https://ece.iisc.ac.in/~rajeshs/E0259/01_data_mars_triangulation.csv)  
 
 ---
