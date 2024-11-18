@@ -5,16 +5,6 @@
 
 This repository provides materials, datasets, and instructions for Analyzing Kepler's Data on Mars.  
 
----
-
-## 📚 **Contents**
-1. [Overview](#overview)
-2. [Datasets](#datasets)
-3. [Assignments](#assignments)
-4. [Resources](#resources)
-5. [Contact](#contact)  
-
----
 
 ## 🌍 **Overview**  
 This module focuses on analyzing Mars's orbital data using trigonometric and regression techniques, including:  
