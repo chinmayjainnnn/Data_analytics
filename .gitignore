@@ -1,2 +1,7 @@
-/assignment2/__pycache__
-/data/
+assignment2/__pycache__
+dls-implementation/data/
+data/
+assignment1/
+data/chrX.fa
+data/chrX_last_col.txt
+dls-implementation/data/modified_ODI_data.csv
